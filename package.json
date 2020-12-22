@@ -1,0 +1,34 @@
+{
+  "name": "@hellomouse/mui-theme",
+  "version": "1.0.0",
+  "description": "Common Material UI based theme for Hellomouse",
+  "main": "out/theme.js",
+  "types": "out/theme.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolfy1339/mui-theme.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wolfy1339/mui-theme/issues"
+  },
+  "homepage": "https://github.com/wolfy1339/mui-theme#readme",
+  "devDependencies": {
+    "@hellomouse/eslint-config-typescript": "^1.1.14",
+    "@typescript-eslint/eslint-plugin": "^4.11.0",
+    "@typescript-eslint/parser": "^4.11.0",
+    "eslint": "^7.16.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-react": "^7.21.5",
+    "typescript": "^4.1.3"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
